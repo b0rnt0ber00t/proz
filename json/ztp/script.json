@@ -1,0 +1,9 @@
+[
+	{
+    "name"          :   "MainRouter",
+	"ip"            :   "10.0.0.253",
+	"username"      :   "admin",
+	"password"      :   "",
+	"port"			:	22
+	}
+]
